@@ -1,3 +1,13 @@
-.nav{
+.nav1 {
     background-color: #c4c4c4;
+    padding: 10px;
+    text-align: center;
+    color: white;
+}
+.section1{
+    background-color: #438930;
+}
+.image{
+    text-align: center;
+    margin-top: 10px;
 }
