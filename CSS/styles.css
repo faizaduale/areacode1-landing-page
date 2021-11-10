@@ -1,6 +1,6 @@
 .nav1 {
     background-color: #c4c4c4;
-    padding: 10px;
+    padding: 2px;
     text-align: center;
     color: white;
 }
@@ -10,4 +10,8 @@
 .image{
     text-align: center;
     margin-top: 10px;
+    width: 50;
+}
+.container1{
+    text-align: center;
 }
