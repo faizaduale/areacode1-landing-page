@@ -10,8 +10,10 @@
 .image{
     text-align: center;
     margin-top: 10px;
-    width: 50;
 }
 .container1{
+    text-align: center;
+}
+footer{
     text-align: center;
 }
